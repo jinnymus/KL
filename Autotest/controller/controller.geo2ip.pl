@@ -11,7 +11,7 @@ use v5.10;
 #$ENV{'P4CLIENT'}="controller_autotester_geoconf";
 #$ENV{'P4HOST'}="controller_autotester";
 #$ENV{'P4USER'}="Kalistratov";
-#$ENV{'P4PASSWD'}="Avr999avr999";
+#$ENV{'P4PASSWD'}="******";
 #$ENV{'P4ROOT'}="/export/perforce/controller_autotester_geoconf";
 
 #$proxy=seach_params2("/export/parameters.dat","proxy");

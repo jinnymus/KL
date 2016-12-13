@@ -2,7 +2,7 @@
 echo "started controller.p4_params.sh"
 export P4PORT=pf.avp.ru:1666
 export P4USER=Kalistratov
-export P4PASSWD=Avr999avr999
+export P4PASSWD=*****
 export P4CLIENT controller_autotester_geoconf
 export P4HOST controller_autotester
 export P4ROOT=/export/perforce/controller_autotester_geoconf
