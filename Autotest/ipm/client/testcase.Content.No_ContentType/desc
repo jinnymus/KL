@@ -1,0 +1,13 @@
+title=Проверка работы корректности загрузки индекса при наличии ссылок (Сontent) и отсутствии типов ссылок (ContentType) в индексе.
+TFSID=66420
+Priority=1
+Automation_Status=Planned
+State_status=Design
+Area=KSN.Transport\IPM
+Iteration=KSN.Transport
+Tested_User_Stories=Tested_User_Stories
+All_links=All_links
+Проверка работы корректности загрузки индекса при наличии ссылок (Сontent) и отсутствии типов ссылок (ContentType) в индексе.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = отсутствует
+###############################

@@ -1,0 +1,7 @@
+<html><table colspan=3 border=1><tr><td><b>DNS</b></td><td><b>IP</b></td><td><b>Name</b></td></tr>
+<tr><td>csn2-12.company.com</td><td>62.128.100.92</td><td>csn-msk-fe2-1.company.com</td></tr>
+<tr><td>csn2-12.company.com</td><td>81.19.104.48</td><td>csn-fft-fe2-1.company.com</td></tr>
+<tr><td>csn2-12.company.com</td><td>119.255.133.57</td><td>csn-bjg-fe2-1.company.com</td></tr>
+<tr><td>csn2-12.company.com</td><td>27.111.185.138</td><td>csn-hkg-fe2-1.company.com</td></tr>
+<tr><td>csn2-12.company.com</td><td>38.113.165.110</td><td>csn-trt-fe2-1.company.com</td></tr>
+</table></html>

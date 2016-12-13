@@ -1,0 +1,22 @@
+title=Проверка работы только блока параметра фильтрации ""SubscriptionStateReason"". В блоке Include. Включение в ответ
+TFSID=66472
+Priority=1
+Automation_Status=Planned
+State_status=Design
+Area=KSN.Transport\IPM
+Iteration=KSN.Transport
+Tested_User_Stories=Tested_User_Stories
+All_links=All_links
+Проверка работы только блока параметра фильтрации "ApplicationLicenseInfo""SubscriptionLicenseInfo""SubscriptionStateReason". В блоке Include. Включение в ответ
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""SubscriptionLicenseInfo""SubscriptionStateReason" = 1
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################

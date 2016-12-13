@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>89308</tfsid>
+<title>Проверка 4</title>
+<description>Проверка работы ограничения нагрузки. Проверка выдачи контента при равенстве размера первого запроса и контента. Разрешено
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов CountryIsoCode = 1
+-Условия типов Range min=1 max=1
+-Размер контента size=1000
+-Конфигурация content_limit=1000
+===============================
+Exclude = блок отсутствует
+###############################</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<assignedto>Svetlana Yushina</assignedto>
+<state>Design</state>
+<steps id="0" last="1">
+<step id="1" type="ValidateStep">
+<parameterizedString><text>test11</text></parameterizedString><parameterizedString><text>test12</text></parameterizedString><description>text description1</description>
+</step>
+<step id="2" type="ValidateStep">
+<parameterizedString><text>test21</text></parameterizedString><parameterizedString><text>test22</text></parameterizedString><description>text description2</description>
+</step>
+</steps>
+</root>

@@ -1,0 +1,22 @@
+title=Проверка работы корректной загрузки индекса при отсутствии блока "AdditionalInfoStrings" в блоке "AdditionalSchemeInfo". В блоке Include.
+TFSID=66467
+Priority=1
+Automation_Status=Planned
+State_status=Design
+Area=KSN.Transport\IPM
+Iteration=KSN.Transport
+Tested_User_Stories=Tested_User_Stories
+All_links=All_links
+Проверка работы корректной загрузки индекса при отсутствии блока "AdditionalInfoStrings" в блоке "AdditionalSchemeInfo". В блоке Include.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""SubscriptionLicenseInfo""AdditionalSchemeInfo""AdditionalInfoStrings" = отсутствует
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################

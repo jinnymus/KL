@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>89513</tfsid>
+<title>Проверка работы только параметра фильтрации ""Alphabet"" в блоке Include. Alphabet проходит по звездочке. Region Отсутствует. Включение в ответ</title>
+<description>Проверка работы только параметра фильтрации "ApplicationLocalization""Alphabet" в блоке Include. Alphabet проходит по звездочке. Region Отсутствует. Включение в ответ
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1 
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLocalization""Alphabet" = 1
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

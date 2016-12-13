@@ -1,0 +1,4 @@
+url_monitor=[datastore2] url_monitor/url_monitor.vmx
+url_monitor_load=[datastore2] url_monitor_load/url_monitor_load.vmx
+file_monitor=[datastore2] file_monitor/file_monitor.vmx
+file_monitor_load=[datastore2] file_monitor_load/file_monitor_load.vmx

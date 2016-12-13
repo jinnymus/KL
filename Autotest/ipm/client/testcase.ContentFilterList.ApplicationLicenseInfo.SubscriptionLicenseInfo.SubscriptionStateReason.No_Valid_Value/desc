@@ -1,0 +1,22 @@
+title=Проверка корректности загрузки параметра фильтрации ""SubscriptionStateReason""  с невалидным значением. В блоке Include.
+TFSID=66474
+Priority=1
+Automation_Status=Planned
+State_status=Design
+Area=KSN.Transport\IPM
+Iteration=KSN.Transport
+Tested_User_Stories=Tested_User_Stories
+All_links=All_links
+Проверка корректности загрузки параметра фильтрации "ApplicationLicenseInfo""SubscriptionLicenseInfo""SubscriptionStateReason"  с невалидным значением. В блоке Include.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""SubscriptionLicenseInfo""SubscriptionStateReason" = 1
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################

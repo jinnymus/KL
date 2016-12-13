@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66447</tfsid>
+<title>Проверка работы только параметра фильтрации ""PartnerOrderNumber"" в блоке Include. Включение в ответ 1ой ссылки из 2х ссылок в индексе.</title>
+<description>Проверка работы только параметра фильтрации "ApplicationLicenseInfo""PartnerOrderNumber" в блоке Include. Включение в ответ 1ой ссылки из 2х ссылок в индексе.
+Количество ссылок в индексе (Content) = 2
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""PartnerOrderNumber" = 1
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################
+Описание содержания для ссылки №  2
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""PartnerOrderNumber" = 1
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

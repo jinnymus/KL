@@ -1,0 +1,2 @@
+#!/bin/sh
+/etc/rc.d/jail restart key_monitor url_monitor file_monitor_check woc_monitor_consistency file_monitor file_monitor_consistency file_monitor_diff file_monitor_sha256 file_monitor_diff_sha256 url_monitor_diff_speed url_monitor_consistency url_monitor_kddi url_monitor_virustotal file_monitor_consistency_sha256

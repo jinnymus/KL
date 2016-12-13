@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IpmRequest>
+	<Application>
+		<Id>1</Id>
+		<Version>
+			<Major>1</Major>
+			<Minor>1</Minor>
+			<Build>1</Build>
+			<Compilation>1</Compilation>
+		</Version>
+	</Application>
+	<PpcsId>1</PpcsId>
+	<MachineId>MachineId1</MachineId>
+	<ApplicationLocalization>ru-Cyrl-RU</ApplicationLocalization>
+	<RebrandingCode>RebrandingCode1</RebrandingCode>
+	<KasperskyId>00000000-0000-0000-0000-000000000001</KasperskyId>
+	<ApplicationLicenseInfo>
+		<LicenseType>LicenseType1</LicenseType>
+		<LicenseTerm>1</LicenseTerm>
+		<LicenseStatus>Valid</LicenseStatus>
+		<OrderNumber>OrderNumber1</OrderNumber>
+		<PartNumber>PartNumber1</PartNumber>
+		<PartnerName>PartnerName1</PartnerName>
+		<PartnerOrderNumber>PartnerOrderNumber1</PartnerOrderNumber>
+		<PartnerCountry>PartnerCountry1</PartnerCountry>
+		<AdditionalLicenseInfo>AdditionalLicenseInfo1</AdditionalLicenseInfo>
+		<CustomerName>CustomerName1</CustomerName>
+		<LicenseActivationDate>2011-01-01T01:00:00</LicenseActivationDate>
+		<LicenseExpirationDate>2011-01-01T12:00:00</LicenseExpirationDate>
+		<SubscriptionLicenseInfo>
+			<SubscriptionState>Active</SubscriptionState>
+			<SubscriptionStateReason>CreditCardAuthSuccess</SubscriptionStateReason>
+			<SubscriptionEndDate>Limited</SubscriptionEndDate>
+			<SubscriptionExpirationDate>2011-01-01T12:00:00</SubscriptionExpirationDate>
+			<InGracePeriod>Present</InGracePeriod>
+			<AdditionalInfoSchemeId>1</AdditionalInfoSchemeId>
+			<AdditionalInfoStrings>
+			</AdditionalInfoStrings>
+			<AdditionalInfoIntegers>
+				<AdditionalInfoInteger>100</AdditionalInfoInteger>
+				<AdditionalInfoInteger>2</AdditionalInfoInteger>
+			</AdditionalInfoIntegers>
+		</SubscriptionLicenseInfo>
+	</ApplicationLicenseInfo>
+	<UcpStatus>Disabled</UcpStatus>
+</IpmRequest>

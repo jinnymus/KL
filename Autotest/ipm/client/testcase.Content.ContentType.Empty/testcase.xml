@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66419</tfsid>
+<title>Проверка корректности загрузки индекса при отсутствии всех дочерних элементов блоков Content и ContentType</title>
+<description>Проверка корректности загрузки индекса при отсутствии всех дочерних элементов блоков Content и ContentType
+Количество ссылок в индексе (Content) = 0
+Количество типов ссылок (ContentType) = 0
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

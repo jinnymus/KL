@@ -1,0 +1,10 @@
+debug_status=on
+debug_mail=off
+testing=off
+fe_ip_address=10.65.66.4
+log_name=ipm_frontend_functional_11.10.13_02:13:28.log
+mail_send_results=yes
+mail_send_debug=yes
+mail_email_addreses_all=kirill.kalistratov@company.com,Ivan.Kulikov@company.com,anna.uzhinova@company.com,Semen.Katrenko@company.com,Maxim.Kozlenko@company.com;
+mail_email_addreses_debug=kirill.kalistratov@company.com;
+mail_email_addreses_fail=kirill.kalistratov@company.com,csn-devs@company.com,Ivan.Kulikov@company.com,anna.uzhinova@company.com,Semen.Katrenko@company.com,Maxim.Kozlenko@company.com;

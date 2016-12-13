@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66482</tfsid>
+<title>Проверка работы корректности загрузки индекса при отсутствии ссылок (Сontent) и наличии типов ссылок (ContentType) в индексе.</title>
+<description>Проверка работы корректности загрузки индекса при отсутствии ссылок (Сontent) и наличии типов ссылок (ContentType) в индексе.
+Количество ссылок в индексе (Content) = отсутствует
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для типа ссылок (ContentType) №  1
+===============================
+SingleInstance = true
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

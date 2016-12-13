@@ -1,0 +1,301 @@
+<html>Date of data is 2013-9-18_12:0:37<br><br>
+<table colspan=3 border=1>
+<tr><td><b>Server Name</b></td><td><b>Geo Files</b></td><td><b>Status Server</b></td><td><b>Status tcpd</b></td></tr>
+<tr><td>csn-bjg-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-bjg-fe2-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-bjg-fe2-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-bjg-fe2-3.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-bjg-ipm-1.company.com</td><td>
+dns-csn-ipm.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe-2.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe-3.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe-4.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe-5.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-3.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-4.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="red">down</font></td></tr>
+<tr><td>csn-fft-fe2-5.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-6.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe2-7.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe3-1.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe3-2.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe3-3.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe3-4.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-10.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-11.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-3.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-4.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-5.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-6.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-7.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-8.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe4-9.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe5-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-fe5-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-fft-ipm-1.company.com</td><td>
+dns-csn-ipm.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-fe-2.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-fe2-1.company.com</td><td>
+dns-csn-url.dat<br>
+dns-csn-kddi.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-fe2-2.company.com</td><td>
+dns-csn-url.dat<br>
+dns-csn-kddi.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-fe2-3.company.com</td><td>
+dns-csn-url.dat<br>
+dns-csn-kddi.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-hkg-ipm-1.company.com</td><td>
+dns-csn-ipm.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe-4.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-stat.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe-5.company.com</td><td>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-stat.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe-6.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-stat.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe-7.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-stat.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe-8.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-pbs.dat<br>
+dns-csn-stat.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-3.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-4.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-5.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe2-6.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe4-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-fe4-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-msk-ipm-1.company.com</td><td>
+dns-csn-ipm.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe-2.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe-4.company.com</td><td>
+dns-csn-file.dat<br>
+dns-csn-info.dat<br>
+dns-csn-kas.dat<br>
+dns-csn-tcert.dat<br>
+dns-csn-verdict.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe2-1.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe2-2.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe2-3.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-fe2-4.company.com</td><td>
+dns-csn-url.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>csn-trt-ipm-1.company.com</td><td>
+dns-csn-ipm.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-bjg-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-bjg-fe-2.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-fft-fe-1.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-fft-fe-2.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-fft-fe-3.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-hkg-fe-1.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-hkg-fe-2.company.com</td><td>
+dns-csn-file.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-msk-fe-1.company.com</td><td>
+dns-csn-p2p.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-msk-fe-2.company.com</td><td>
+dns-csn-p2p.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-trt-fe-1.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-trt-fe-2.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+<tr><td>rs-trt-fe-3.company.com</td><td>
+dns-csn-pbs.dat<br>
+</td><td><font color="green">alive</font></td><td><font color="green">ok</font></td></tr>
+</table></html>

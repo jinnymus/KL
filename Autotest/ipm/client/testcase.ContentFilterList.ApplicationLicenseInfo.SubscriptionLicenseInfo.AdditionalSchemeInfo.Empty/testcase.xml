@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66464</tfsid>
+<title>Проверка корректности загрузки только блока параметра фильтрации ""AdditionalSchemeInfo"" не содержащий дочерних параметров фильтрации. В блоке Include.</title>
+<description>Проверка корректности загрузки только блока параметра фильтрации "ApplicationLicenseInfo""SubscriptionLicenseInfo""AdditionalSchemeInfo" не содержащий дочерних параметров фильтрации. В блоке Include.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""SubscriptionLicenseInfo""AdditionalSchemeInfo" = 1
+-Количество элементов "ApplicationLicenseInfo""SubscriptionLicenseInfo""AdditionalSchemeInfo"".." = параметры фильтрации отсутствуют
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

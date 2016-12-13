@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66492</tfsid>
+<title>Проверка корректности зарузки параметров фильтрации блока "IncludeContentFilterList" без дочерних элементов.</title>
+<description>Проверка корректности зарузки параметров фильтрации блока "IncludeContentFilterList" без дочерних элементов.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1 
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = все параметры фильтрации
+-Количество элементов "IncludeContentFilterList" = 1
+-Количество элементов "IncludeContentFilterList"".." = 0
+-Количество фильтров "filter" = 0
+-Условия типов Range max=1 min=1
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

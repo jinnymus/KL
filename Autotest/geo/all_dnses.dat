@@ -1,0 +1,56 @@
+csn-catm-geo.company.com;geo;csn-catm.geo.company.com. 
+csn-crypto-catm-geo.company.com;geo;csn-crypto-catm.geo.company.com. 
+csn-crypto-file-geo.company.com;geo;csn-crypto-file.geo.company.com. 
+csn-crypto-fw-geo.company.com;geo;csn-crypto-fw.geo.company.com. 
+csn-crypto-info-geo.company.com;geo;csn-crypto-info.geo.company.com. 
+csn-crypto-ipm-geo.company.com;geo;csn-crypto-ipm.geo.company.com. 
+csn-crypto-kas-geo.company.com;geo;csn-crypto-kas.geo.company.com. 
+csn-crypto-pbs-geo.company.com;geo;csn-crypto-pbs.geo.company.com. 
+csn-crypto-stat-geo.company.com;geo;csn-crypto-stat.geo.company.com. 
+csn-crypto-tcert-geo.company.com;geo;csn-crypto-tcert.geo.company.com. 
+csn-crypto-url-geo.company.com;geo;csn-crypto-url.geo.company.com. 
+csn-crypto-verdict-geo.company.com;geo;csn-crypto-verdict.geo.company.com. 
+csn-crypto-wifi-geo.company.com;geo;csn-crypto-wifi.geo.company.com. 
+csn-fft-st2-1.company.com;dns;none
+csn-fft-st2-4.company.com;dns;none
+csn-file-ctms.company.com;ctms;csn-file-geo.company.com. csn-file.geo.company.com. 
+csn-file-geo.company.com;geo;csn-file.geo.company.com. 
+csn-file-kavsdk.company.com;kavsdk;csn-file-geo.company.com. csn-file.geo.company.com. 
+csn-fw-geo.company.com;geo;csn-fw.geo.company.com. 
+csn-info-ctms.company.com;ctms;csn-info-geo.company.com. csn-info.geo.company.com. 
+csn-info-geo.company.com;geo;csn-info.geo.company.com. 
+csn-ipm-1.company.com;dns;none
+csn-ipm-1.company.com;mobile;none
+csn-ipm-ctms.company.com;ctms;csn-ipm-geo.company.com. csn-ipm.geo.company.com. 
+csn-ipm-geo.company.com;geo;csn-ipm.geo.company.com. 
+csn-kas-geo.company.com;geo;csn-kas.geo.company.com. 
+csn-kddi.company.com;dns;none
+csn-mfilerep-1.company.com;mobile;none
+csn-mstat-1.company.com;mobile;none
+csn-pbs-geo.company.com;geo;csn-pbs.geo.company.com. 
+csn-stat-ctms.company.com;ctms;csn-stat-geo.company.com. csn-stat.geo.company.com. 
+csn-stat-geo.company.com;geo;csn-stat.geo.company.com. 
+csn-tboot-1.company.com;dns;none
+csn-tcert-1.company.com;dns;none
+csn-tcert-geo.company.com;geo;csn-tcert.geo.company.com. 
+csn-tpcert-1.company.com;dns;none
+csn-url-ctms.company.com;ctms;csn-url-geo.company.com. csn-url.geo.company.com. 
+csn-url-geo.company.com;geo;csn-url.geo.company.com. 
+csn-url-kavsdk.company.com;kavsdk;csn-url-geo.company.com. csn-url.geo.company.com. 
+csn-url-mobile-geo.company.com;geo;csn-url-mobile.geo.company.com. 
+csn-verdict-geo.company.com;geo;csn-verdict.geo.company.com. 
+csn-vt.company.com;dns;none
+csn-wifi-geo.company.com;geo;csn-wifi.geo.company.com. 
+csn2-12.company.com;mobile;none
+csn3-11.part1.company.com;dns;none
+csn3-11.part2.company.com;dns;none
+csn3-12.part1.company.com;dns;none
+csn3-12.part2.company.com;dns;none
+csn4-12.company.com;dns;none
+csn4.company.com;dns;none
+csn5-12.company.com;dns;none
+csn5-12.company.com;mobile;none
+csn6-12.company.com;dns;none
+csn7-12.company.com;dns;none
+csn7.company.com;dns;none
+csn8-12.company.com;dns;none

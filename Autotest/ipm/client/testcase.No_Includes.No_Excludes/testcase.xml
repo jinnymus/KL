@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66500</tfsid>
+<title>Проверка корректности работы фильтрации при отсутствии блока Include и блока Exclude.</title>
+<description>Проверка корректности работы фильтрации при отсутствии блока Include и блока Exclude.
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = блок отсутствует
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<tfsid>66440</tfsid>
+<title>Проверка работы только параметра фильтрации ""PartNumber"" в блоке Include. Включение в ответ</title>
+<description>Проверка работы только параметра фильтрации "ApplicationLicenseInfo""PartNumber" в блоке Include. Включение в ответ
+Количество ссылок в индексе (Content) = 1
+Количество типов ссылок (ContentType) = 1
+###############################
+Описание содержания для ссылки №  1
+===============================
+Include = один элемент
+-Количество фильтров (filter) = 1
+-Количество элементов "ApplicationLicenseInfo""PartNumber" = 1
+-Условия типов Range min=1 max=1
+===============================
+Exclude = блок отсутствует
+###############################
+</description>
+<area>KSN.Transport\IPM</area>
+<autostatus>Planned</autostatus>
+<state>Design</state>
+</root>

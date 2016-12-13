@@ -1,0 +1,4 @@
+ipm_frontend=[datastore1] ipm_frontend_autotest/ipm_frontend_autotest.vmx
+ipm_client=[datastore1] ipm_client_autotest_1/ipm_client_autotest_1.vmx
+url_frontend=[datastore1] url_frontend/url_frontend.vmx
+url_client=[datastore1] url_client/url_client.vmx

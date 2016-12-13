@@ -1,0 +1,12 @@
+<GeoIpInfo>
+	<Ipv4Range>
+		<IpAddressStart>127.0.0.0</IpAddressStart>
+		<IpAddressEnd>127.0.0.255</IpAddressEnd>
+		<CountryIsoCode>kl</CountryIsoCode>
+	</Ipv4Range>
+	<Ipv4Range>
+		<IpAddressStart>10.0.0.0</IpAddressStart>
+		<IpAddressEnd>10.255.255.255</IpAddressEnd>
+		<CountryIsoCode>ru</CountryIsoCode>
+	</Ipv4Range>
+</GeoIpInfo>
